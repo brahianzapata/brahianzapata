@@ -24,6 +24,17 @@ I have hands-on experience with both SQL databases, such as MySQL and Oracle, an
 
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
 
+## 🤝 My Certified [Credly](https://www.credly.com/users/brahian-stiven-zapata-nunez/badges):
+
+<p>
+    <a target="_blank"href="https://www.credly.com/badges/30cab22e-42f6-4410-9536-7bb30863feb0"><img height=175 alt="Taiko GitHub Contributor 2023" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />&nbsp;&nbsp;
+    <a target="_blank"href="https://www.credly.com/badges/e6459090-e505-41a2-b522-f5e334255ced"><img height=175 alt="Ethereum.org GitHub Contributor 2023" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />&nbsp;&nbsp;
+    <a target="_blank"href="https://www.credly.com/badges/01be73f1-5573-40cd-9913-b3a3aff14a8a"><img height=175 alt="ZK-Roller-Coaster Taiko Research Contributor" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />&nbsp;&nbsp;
+    <a target="_blank" href="https://www.credly.com/badges/6bb20891-9d46-4ed7-a789-ca64bc4c7ef3"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" />&nbsp;&nbsp;
+      <a target="_blank" href="https://www.credly.com/badges/6e36fbcb-001d-417c-97db-4b38880759fa"><img height=175 alt="Double Your DeFi Cohort 2: May 2023" src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" />&nbsp;&nbsp;
+</p>
+
+
 ## 🏆 My Stats:
 
 <p>
